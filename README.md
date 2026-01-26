@@ -59,6 +59,22 @@ Copies a directory.
 ```bash
 cp -r folder1 folder2
 ```
+## 12. mv
+Moves or renames a file.
+```bash
+mv old.txt new.txt
+```
+## 13. rm
+Deletes a file.
+```bash
+rm file.txt
+```
+## 14. rm -r
+Deletes a directory.
+```bash
+rm -r folder_name
+```
+
 
 
 
