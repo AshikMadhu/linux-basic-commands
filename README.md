@@ -38,4 +38,27 @@ Creates a new directory.
 ```bash
 mkdir new_folder
 ```
+## 8. rmdir
+Deletes an empty directory.
+```bash
+rmdir folder_name
+```
+## 9. touch
+Creates an empty file.
+```bash
+touch file.txt
+```
+## 10. cp
+Copies a file.
+```bash
+cp source.txt destination.txt
+```
+## 11. cp -r
+Copies a directory.
+```bash
+cp -r folder1 folder2
+```
+
+
+
 
