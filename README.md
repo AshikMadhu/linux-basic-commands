@@ -1,5 +1,6 @@
-# Linux Basic Commands  ### (With examples)
-
+# Linux Basic Commands 
+ 
+ 
 ---
 
 ## 1. pwd
