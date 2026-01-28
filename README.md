@@ -90,4 +90,14 @@ Clears the terminal screen.
 ```bash
 clear
 ```
+## 17. man
+Shows the manual of a command.
+```bash
+man ls
+```
+## 18. echo
+Prints text to the terminal.
+```bash
+echo "Hello Linux"
+```
 
