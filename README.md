@@ -100,4 +100,13 @@ Prints text to the terminal.
 ```bash
 echo "Hello Linux"
 ```
-
+## 19. chmod
+Changes file permissions.
+```bash
+chmod 755 file.sh
+```
+## 20. chown
+Changes file ownership.
+```bash
+chown user file.txt
+```
