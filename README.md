@@ -75,7 +75,19 @@ Deletes a directory.
 rm -r folder_name
 ```
 
-
-
-
+## 14. rm -r
+Deletes a directory.
+```bash
+rm -r folder_name
+```
+## 15. cat
+Displays file contents.
+```bash
+cat file.txt
+```
+## 16. clear
+Clears the terminal screen.
+```bash
+clear
+```
 
