@@ -110,3 +110,29 @@ Changes file ownership.
 ```bash
 chown user file.txt
 ```
+
+## 21. uname
+Displays system information.
+```bash
+uname -a
+```
+## 22. df
+Shows disk usage.
+```bash
+df -h
+```
+## 23. free
+Displays memory usage.
+```bash
+free -h
+```
+## 24. top
+Shows running processes.
+```bash
+top
+```
+## 25. ps
+Displays running processes.
+```bash
+ps
+```
